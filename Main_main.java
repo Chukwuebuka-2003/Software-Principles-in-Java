@@ -1,5 +1,4 @@
-// NAME: Ugwu Marylinda Onyinyechukwu 
-// REG NO: 2020/243263
+// NAME: Chukwuebuka Ezeokeke
 
 
 // Stack: This follows the Last-In-First-Out (LIFO) Principle
