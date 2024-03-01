@@ -1,6 +1,6 @@
 
-// NAME: Ugwu Marylinda Onyinechukwu
-// REG NO: 2020/243263
+// NAME: Chukwuebuka Ezeokeke
+
 
 class Node{
 	int data;
